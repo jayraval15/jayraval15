@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=Umang+Ghoghari&fontSize=35&fontColor=white&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=jay+Raval&fontSize=35&fontColor=white&animation=twinkling&fontAlignY=35" />
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
