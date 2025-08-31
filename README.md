@@ -34,21 +34,6 @@ Currently, I’m expanding my skill set into **Python development** and explorin
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="48%"/>  
-</p>
-
----
-
-### 📂 Featured Projects  
-- 🔗 [E-commerce Web App](#) – Laravel, MySQL, Bootstrap  
-- 🔗 [Digital Visiting Card Generator](#) – Laravel SaaS Platform  
-- 🔗 [Book Management System](#) – PHP, MySQL, CRUD System  
-
----
 
 ### 🤝 Connect With Me  
 
